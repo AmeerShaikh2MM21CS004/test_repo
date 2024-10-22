@@ -1,1 +1,1 @@
-print("checking GitHUB working v3
+print("checking GitHUB working v3")
